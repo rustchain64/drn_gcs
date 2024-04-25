@@ -21,17 +21,17 @@ function App() {
             <h1>EZ Drone Control Panel</h1>
             {/* Video component and control elements */}
         </div>
-        <p>
+        {/* <p>
           Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
+        </p> */}
+        {/* <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a>
+          ...
+        </a> */}
       </header>
     </div>
   );
